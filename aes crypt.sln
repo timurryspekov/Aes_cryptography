@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aes crypt", "aes crypt\aes crypt.csproj", "{81FE47BD-7A0E-4FC2-8B34-58AF5FDEB641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81FE47BD-7A0E-4FC2-8B34-58AF5FDEB641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FE47BD-7A0E-4FC2-8B34-58AF5FDEB641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FE47BD-7A0E-4FC2-8B34-58AF5FDEB641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FE47BD-7A0E-4FC2-8B34-58AF5FDEB641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81F722B6-FD18-432B-B515-175B1FB0FF27}
+	EndGlobalSection
+EndGlobal

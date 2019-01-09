@@ -1,0 +1,28 @@
+C:\Users\User\source\repos\aes crypt\aes crypt\bin\Debug\aes crypt.exe
+C:\Users\User\source\repos\aes crypt\aes crypt\bin\Debug\aes crypt.pdb
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes crypt.csprojAssemblyReference.cache
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\App.g.cs
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes crypt_MarkupCompile.cache
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes crypt_MarkupCompile.lref
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes crypt.g.resources
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes_crypt.Properties.Resources.resources
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes crypt.csproj.GenerateResource.cache
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes crypt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes crypt.exe
+C:\Users\User\source\repos\aes crypt\aes crypt\obj\Debug\aes crypt.pdb
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\bin\Debug\aes crypt.exe
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\bin\Debug\aes crypt.pdb
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes crypt.csprojAssemblyReference.cache
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\App.g.cs
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes crypt_MarkupCompile.cache
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes crypt_MarkupCompile.lref
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes crypt.g.resources
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes_crypt.Properties.Resources.resources
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes crypt.csproj.GenerateResource.cache
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes crypt.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes crypt.exe
+C:\Users\User\Documents\github\Aes_cryptography\aes crypt\obj\Debug\aes crypt.pdb
